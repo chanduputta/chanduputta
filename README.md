@@ -1,8 +1,5 @@
 - 👋 Hi, I’m shreyash chandra
-- 👀 I’m interested in wealthy environment
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on reasonable work
-- 📫 reach me puttashreyash@gmail.com
+- 🌱 I’m currently learning programming in real
 
 <!---
 chanduputta/chanduputta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
