@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shreyash chandra
-- 🌱 I’m currently learning programming in real
+- 🌱 currently programming in real
 
 <!---
 chanduputta/chanduputta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
